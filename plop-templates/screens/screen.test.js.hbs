@@ -1,0 +1,10 @@
+import React from 'react';
+import {{pascalCase name}} from './{{pascalCase name}}';
+import { render } from 'react-native-testing-library';
+
+describe('{{pascalCase name}}', () => {
+    it('should match to snapshot', () => {
+        const {{pascalCase name}}Comp = render(<{{pascalCase name}} />).toJSON();
+        expect({{pascalCase name}}Comp).toMatchSnapshot();
+    });
+});

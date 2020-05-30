@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./src"],
+      "extensions": [".js", ".ios.js", ".android.js"],
+      "alias": {
+        "@components": "./src/components",
+        "@screens": "./src/screens",
+        "@utils": "./src/utils"
+      }
+    }]
+  ]
+}

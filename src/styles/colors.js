@@ -1,0 +1,20 @@
+// COLOR PALETTE
+export const LIGHT_BLUE = '#007aff';
+export const DARK_BLUE = '#0a84ff';
+export const LIGHT_GREEN = '#30d158';
+export const LIGHT_INDIGO = '#5856d6';
+export const DARK_INDIGO = '#ff9500';
+export const DARK_ORANGE = '#ff9f0a';
+export const LIGHT_PINK = '#ff2d55';
+export const DARK_PINK = '#ff375f';
+export const LIGHT_PURPLE = '#af52de';
+export const DARK_PURPLE = '#bf5af2';
+export const LIGHT_RED = '#ff3a30';
+export const DARK_RED = '#ff453a';
+export const LIGHT_TEAL = '#5ac7fa';
+export const DARK_TEAL = '#64d3ff';
+export const LIGHT_YELLOW = '#ffcc00';
+export const DARK_YELLOW = '#ffd60a';
+export const LIGHT_GRAY = '#f2f2f7';
+export const DARK_GRAY = '#8e8e93';
+export const PRUSSIAN_BLUE = '#003a5c';
