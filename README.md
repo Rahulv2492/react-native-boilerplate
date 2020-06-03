@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
     $ react-native run-ios --simulator="<Simulator_name>"
     ```  
 
-## Automatically generate your js files
+### Automatically generate your js files
 
 1. Genarate Screen
 
@@ -43,7 +43,8 @@ These instructions will get you a copy of the project up and running on your loc
 
     $ What is your screen name? <screen_name>
     ```
-2.Generate component
+
+1. Genarate component
 
     ```sh
     $ npm run generate component
@@ -51,4 +52,4 @@ These instructions will get you a copy of the project up and running on your loc
     $ What is your component  name? <component_name>
     ```
 
-###Note : We are using [Plop](https://plopjs.com/ "Plop") to automatically generate js files.
+##### Note : We are using [Plop](https://plopjs.com/ "Plop") to automatically generate js files.
