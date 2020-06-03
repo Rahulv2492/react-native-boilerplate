@@ -1,6 +1,18 @@
 # React Native Biolerplate
 ---
-One Paragraph of project description goes here
+This is [React Native](https://reactnative.dev/ "React Native") boilerplate for kickstart  mobile application development.Using that you can save time to create and set project architecture from scratch.
+
+## Content
+--
+
+- [React Native](https://reactnative.dev/ "React Native") Version 0.62
+- [Redux](https://redux.js.org/ "Redux")
+- [React Navigation](https://reactnavigation.org/ "React Navigation") V5
+- [Redux Saga](https://redux-saga.js.org/ "Redux Saga")
+- [Axios](https://github.com/axios/axios "Axios")
+- [styled-components](https://styled-components.com/ "styled-components")
+- [Jest](https://jestjs.io/ "Jest")
+- [react-native-testing-library](https://github.com/callstack/react-native-testing-library "react-native-testing-library")
 
 ## Getting Started
 ---
