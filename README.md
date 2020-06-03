@@ -1,9 +1,8 @@
 # React Native Biolerplate
----
-This is [React Native](https://reactnative.dev/ "React Native") boilerplate for kickstart  mobile application development.Using that you can save time to create and set project architecture from scratch.
+
+This is [React Native](https://reactnative.dev/ "React Native") boilerplate for kickstart  mobile application development.Using that you can save time from creating new project from scratch.
 
 ## Content
---
 
 - [React Native](https://reactnative.dev/ "React Native") Version 0.62
 - [Redux](https://redux.js.org/ "Redux")
@@ -15,19 +14,18 @@ This is [React Native](https://reactnative.dev/ "React Native") boilerplate for 
 - [react-native-testing-library](https://github.com/callstack/react-native-testing-library "react-native-testing-library")
 
 ## Getting Started
----
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 
 ### Prerequisites
----
 
 1. Install React Native Cli
 
 2. Make sure you have also installed [CocoaPods](https://guides.cocoapods.org/using/getting-started.html).We need that      for pod files for ios.
 
 ### Intial Setup
----
+
 1. Install Node moudels :
 
     ```sh
@@ -47,7 +45,6 @@ These instructions will get you a copy of the project up and running on your loc
     ```  
 
 ### Automatically generate your js files
----
 
 1. Genarate Screen
 
