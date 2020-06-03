@@ -1,5 +1,5 @@
 module.exports = plop => {
-    plop.setGenerator('Screen', {
+    plop.setGenerator('screen', {
         description: 'Create a reusable Screen',
         prompts: [
             {
